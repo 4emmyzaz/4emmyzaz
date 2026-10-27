@@ -1,6 +1,6 @@
 👋 Hi there I'm Emmanuel Azubuike!
 
-💼 I'm a Software Engineer and Data Analyst passionate about building efficient solutions and uncovering insights from data. 
+💼 I'm a Geoscientist, Software Engineer and Data Analyst passionate about building efficient solutions and uncovering insights from data. 
 
 🌟 I'm interested in Software development, data visualization, AI engineering, machine learning, and automation.  
 
